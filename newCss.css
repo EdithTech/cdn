@@ -199,3 +199,15 @@ body{
 .outerNav{
     background-color: #fff;
 }
+
+.table{
+    border-spacing: 0 15px;
+    border-collapse: separate;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+.view-page{
+    background-color: #f9f9f9;
+}
